@@ -1,0 +1,10 @@
+package Strumienie_02_GIT;
+
+/**
+ * Created by Michal on 2017-02-17.
+ */
+public enum Accessories {
+
+    LUSTERKA_ELEKTRYCZNE, SZYBY_ELEKTRYCZNE, DRZWI_TYLNE, ALARM, SWIATLA_PRZECIWMGIELNE, KLIMATYZACJA, AUDIO, SKORA;
+
+}
